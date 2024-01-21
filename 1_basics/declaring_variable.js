@@ -32,6 +32,6 @@ name = 'Mark'; // 할당
 console.log(name);
 
 let name2; // 변수 선언
-console.log(name2); // undefinedss
+console.log(name2); // undefined
 
 //const name3; // SyntaxError: Missing initializer in const declaration
